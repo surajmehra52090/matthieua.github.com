@@ -25,7 +25,7 @@ body
   
   font-family: 'Montserrat',sans-serif;
   color:#fff;
-  max-width: 1180px;
+  max-width: 960px;
   height: auto;
   width: 90%;
   margin: 100px auto;
@@ -278,7 +278,7 @@ p.twt a:hover
   
   body
   {
-    margin: 100px -1%;
+    margin: 100px auto;
     
   }
   
