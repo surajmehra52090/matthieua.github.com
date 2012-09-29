@@ -8,7 +8,6 @@ html
   -webkit-font-smoothing: antialiased;
   height:100%;
   width:100%;
-  background-color:#2A2B2B;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -22,7 +21,7 @@ html
 
 body
 {
-  
+  background:#2A2B2B url(../images/bg.png) repeat;
   font-family: 'Montserrat',sans-serif;
   color:#fff;
   max-width: 960px;
