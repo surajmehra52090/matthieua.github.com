@@ -59,14 +59,12 @@ body
 }
 
 /* HEADER */
-
 header img
 {
   margin: 20px 40px 40px 0;
   border-radius: 56px;
+  border: 6px solid #393A3A;
   float: left;
-  -webkit-box-shadow: 0px 0px 2px 0px #DBD5CE;
-  box-shadow: 0px 0px 2px 0px #DBD5CE;
 }
 
 header img:hover {
@@ -80,8 +78,7 @@ header img:hover {
   -moz-animation-iteration-count: infinite;
   -moz-animation-timing-function: linear;
 
-  -webkit-box-shadow: 0px 0px 6px 0px #000;
-  box-shadow: 0px 0px 6px 0px #000;
+
 
 }
 
@@ -120,13 +117,14 @@ header .right {
 }
 
 h2 {
-  font-family: 'RobotoBold', "Helvetica Neue",Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
   margin:0;
-  letter-spacing: 10px;
-  font-size: 20px;
+  letter-spacing: 2px;
+  font-size: 22px;
+  line-height: 1.25;
   display: inline;
   color: #B33A2F;
-  text-transform: uppercase;
+  text-transform: downcase;
 }
 
 p {
@@ -310,8 +308,8 @@ p.twt a:hover
   }
 
   header h1 {
-    font-size:36px;
-    letter-spacing: 10px;
+    font-size:32px;
+    letter-spacing: 2px;
     line-height: 40px;
 
 
