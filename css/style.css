@@ -107,8 +107,8 @@ h1
   line-height: 30px;
   color: #E2E4D7;
   text-transform: uppercase;
-  letter-spacing: 10px;
-  margin: 5px 0;
+  letter-spacing: 5px;
+  margin: 15px 0 15px;
 }
 
 header .right {
