@@ -102,13 +102,13 @@ header img:hover {
 
 h1
 {
-  font-family: 'RobotoBold', "Helvetica Neue",Helvetica, Arial, sans-serif;
-  font-size: 38px;
-  line-height: 30px;
-  color: #E2E4D7;
+  font-family:    'RobotoBold', "Helvetica Neue",Helvetica, Arial, sans-serif;
+  font-size:      38px;
+  line-height:    30px;
+  color:          #E2E4D7;
   text-transform: uppercase;
   letter-spacing: 5px;
-  margin: 15px 0 15px;
+  margin:         15px 0 5px;
 }
 
 header .right {
