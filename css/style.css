@@ -61,7 +61,7 @@ body
 /* HEADER */
 header img
 {
-  margin:        20px 40px 40px 0;
+  margin:        20px 30px 40px 0;
   border-radius: 50%;
   border:        6px solid #393A3A;
   float:         left;
@@ -108,7 +108,7 @@ h1
   color:          #E2E4D7;
   text-transform: uppercase;
   letter-spacing: 5px;
-  margin:         15px 0 5px;
+  margin:         20px 0 5px;
 }
 
 header .right {
