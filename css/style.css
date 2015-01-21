@@ -39,7 +39,6 @@ html
   -webkit-animation-duration: 1s;
   -webkit-animation-delay: 0.5s;
   -webkit-animation-iteration-count: 1;
-  border-top: 4px solid #B33A2F;
 }
 
 body
@@ -75,9 +74,6 @@ header img:hover {
   -moz-animation-duration: 1s;
   -moz-animation-iteration-count: infinite;
   -moz-animation-timing-function: linear;
-
-
-
 }
 
 @-webkit-keyframes rotate {
