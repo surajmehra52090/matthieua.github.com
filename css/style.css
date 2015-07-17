@@ -36,9 +36,6 @@ html
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  -webkit-animation-duration: 1s;
-  -webkit-animation-delay: 0.5s;
-  -webkit-animation-iteration-count: 1;
 }
 
 body
@@ -50,9 +47,6 @@ body
   height: auto;
   width: 90%;
   margin: 60px auto;
-  -webkit-animation-duration: 2s;
-  -webkit-animation-delay: 1s;
-  -webkit-animation-iteration-count: 1;
 }
 
 /* HEADER */
